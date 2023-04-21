@@ -26,10 +26,16 @@ This is an example GPT Chat model project, based on the OpenAI API [quickstart t
    ```bash
    $ pip install -r requirements.txt
    ```
+   
+6. Make a copy of the example environment variables file:
 
-6. Add your [API key](https://beta.openai.com/account/api-keys) to the `.env` file.
+   ```bash
+   $ cp .env.example .env
+   ```
+   
+7. Add your [API key](https://beta.openai.com/account/api-keys) to the `.env` file.
 
-7. Run the app:
+8. Run the app:
 
    ```bash
    $ flask run
