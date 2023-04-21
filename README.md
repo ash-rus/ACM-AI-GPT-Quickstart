@@ -20,11 +20,10 @@ This is an example GPT Chat model project, based on the OpenAI API [quickstart t
    $ python -m venv venv
    $ . venv/Scripts/activate
    ```
-5. Upgrade pip and openai
+5. Upgrade pip (if needed)
 
    ```bash
    $ pip install --upgrade pip
-   $ pip install --upgrade openai
    ```
    
 6. Install the requirements:
