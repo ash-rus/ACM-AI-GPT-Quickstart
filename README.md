@@ -26,6 +26,7 @@ This is an example GPT Chat model project, based on the OpenAI API [quickstart t
    ```bash
    $ pip install -r requirements.txt
    ```
+   (Close and reopen your project if it doesn't work)
    
 6. Make a copy of the example environment variables file:
 
