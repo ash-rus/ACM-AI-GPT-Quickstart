@@ -11,7 +11,7 @@ This is an example GPT Chat model project, based on the OpenAI API [quickstart t
 3. Navigate into the project directory:
 
    ```bash
-   $ cd gpt-quickstart
+   $ cd ACM-AI-GPT-Quickstart
    ```
 
 4. Create a new virtual environment:
